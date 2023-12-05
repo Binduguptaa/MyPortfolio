@@ -84,7 +84,7 @@ em , .skl{
     /* bottom: 0%; */ 
 }
 #about-me{
-    padding: 7% 15%;
+    padding: 7% 10%;
     background-color: #99F3BD;
 }
 .f1{
@@ -96,8 +96,7 @@ em , .skl{
     border-radius: 8%;
     /* margin-left: 20%;
     margin-top: 15%; */
-    
-    margin: auto;
+    /* margin: auto; */
 }
 
 #project{
@@ -212,6 +211,10 @@ em , .skl{
         top: 20px;
         bottom: 30px;
         
+    }
+
+    .devloper-img{margin-top: 20px;
+    margin-left: -40px;
     }
     .head-img{
         display: block;
