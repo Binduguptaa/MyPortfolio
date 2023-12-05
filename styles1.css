@@ -229,4 +229,11 @@ em , .skl{
     #project{
         margin: 20px;
     }
+    .sk{
+        
+    flex-wrap: wrap;
+    }
+    .skl{
+        width: 100%;
+    }
 }
