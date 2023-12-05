@@ -2,7 +2,9 @@
 font families --> font-family: 'Montserrat', sans-serif;
 font-family: 'Roboto Slab', serif;
 font-family: 'Ubuntu', sans-serif; */
-
+body{
+    width: 100%;
+}
 *{
     font-family: 'Roboto Slab', serif;
     font-weight: bold;
@@ -13,6 +15,7 @@ em , .skl{
     /* font-size: large; */
     
 }
+
 #my-skill{
     padding: 4% 15%;
        
@@ -91,9 +94,10 @@ em , .skl{
 }
 .devloper-img{
     border-radius: 8%;
-    margin-left: 20%;
-    margin-top: 15%;
+    /* margin-left: 20%;
+    margin-top: 15%; */
     
+    margin: auto;
 }
 
 #project{
